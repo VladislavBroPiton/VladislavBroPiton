@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VladislavBroPiton
 - 👀 I’m interested in ...Testing 
-- 🌱 I’m currently learning ...Тестированию
+- 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me  
 
