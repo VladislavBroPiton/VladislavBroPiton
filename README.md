@@ -1,4 +1,4 @@
- <img align="right" ![vj](https://github.com/VladislavBroPiton/VladislavBroPiton/assets/132227845/dfdb16f6-49e2-41e5-b0b0-2a58e71e471f) />  
+ ![vj](https://github.com/VladislavBroPiton/VladislavBroPiton/assets/132227845/dfdb16f6-49e2-41e5-b0b0-2a58e71e471f) 
 
 #### Всем привет! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)  Меня зовут Владислав
 #### Я тестировщик
