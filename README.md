@@ -10,7 +10,6 @@
 
  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/VladislavBroPiton&show_icons=true)    
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=https://github.com/VladislavBroPiton)    
 
