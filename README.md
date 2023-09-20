@@ -13,5 +13,5 @@
 
 
 <p align='center'>
-  <img align="center" src="./test.svg">
+  <img align="center" src="./Test.svg">
 </p>
