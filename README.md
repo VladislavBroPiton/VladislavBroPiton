@@ -26,3 +26,4 @@
   <img align="center" src="./github_stats.svg">
 </p> 
 
+The file `github_stats.svg` is an svg image of your github stats. You can copy the link of the image and use it anywhere. By default it updates daily at `2:47 UTC`. You can also change this by changing the cron in `/.github/workflows/main.yml` by using [Cron Generator](https://crontab.guru/).
