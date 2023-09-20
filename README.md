@@ -13,17 +13,3 @@
 
 
 
-<h1 align='center'>GitHub Stats Terminal Style</h1>
-<p align='center'>Dynamically generate GitHub stats looking like a Terminal Interface </p>
-
-<p align="center" >
-  <a href="https://github.com/yogeshwaran01/github-stats-terminal-style/actions/workflows/main.yml">
-    <img src="https://github.com/yogeshwaran01/github-stats-terminal-style/actions/workflows/main.yml/badge.svg" alt="Update Github Stats" title="Terminal Style GitHub Stats">
-  </a>
-</p>
-
-<p align='center'>
-  <img align="center" src="./github_stats.svg">
-</p> 
-
-The file `github_stats.svg` is an svg image of your github stats. You can copy the link of the image and use it anywhere. By default it updates daily at `2:47 UTC`. You can also change this by changing the cron in `/.github/workflows/main.yml` by using [Cron Generator](https://crontab.guru/).
