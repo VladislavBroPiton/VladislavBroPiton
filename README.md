@@ -12,3 +12,15 @@
  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="320" />    
 
 
+<h1 align='center'>GitHub Stats Terminal Style</h1>
+<p align='center'>Dynamically generate GitHub stats looking like a Terminal Interface </p>
+
+<p align="center" >
+  <a href="https://github.com/yogeshwaran01/github-stats-terminal-style/actions/workflows/main.yml">
+    <img src="https://github.com/yogeshwaran01/github-stats-terminal-style/actions/workflows/main.yml/badge.svg" alt="Update Github Stats" title="Terminal Style GitHub Stats">
+  </a>
+</p>
+
+<p align='center'>
+  <img align="center" src="./github_stats.svg">
+</p>
