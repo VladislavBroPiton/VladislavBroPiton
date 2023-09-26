@@ -427,7 +427,7 @@
                 <use xlink:href="#g8" y="3366" />
                 <use xlink:href="#g10" y="3383" />
                 <rect x="160" y="3400" width="8" height="17" class="foreground" />
-                <use xlink:href="#g1" y="3400" />
+                <use xlink:href="#g10" y="3400" />
             </g>
             <g>
                 <use xlink:href="#g8" y="3740" />
