@@ -137,249 +137,249 @@
                 <text x="144" textLength="48" class="foreground">$ Vlad</text>
                 <text x="192" textLength="8" class="background"></text>
             </g>
-            <g id="g9">
+            <g id="g6">
                 <text x="0" textLength="8" class="background"></text>
             </g>
-            <g id="g10">
+            <g id="g7">
                 <text x="0" textLength="104" class="color6">Vlad</text>
             </g>
-            <g id="g11">
+            <g id="g8">
                 <text x="0" textLength="128" font-weight="bold" class="color10">Vlad</text>
                 <text x="128" textLength="8" class="foreground">:</text>
                 <text x="136" textLength="8" font-weight="bold" class="color12">~</text>
                 <text x="144" textLength="24" class="foreground">$ g</text>
                 <text x="168" textLength="8" class="background"></text>
             </g>
-            <g id="g12">
+            <g id="g9">
                 <text x="0" textLength="128" font-weight="bold" class="color10">Vlad</text>
                 <text x="128" textLength="8" class="foreground">:</text>
                 <text x="136" textLength="8" font-weight="bold" class="color12">~</text>
                 <text x="144" textLength="32" class="foreground">$ gi</text>
                 <text x="176" textLength="8" class="background"></text>
             </g>
-            <g id="g13">
+            <g id="g10">
                 <text x="0" textLength="128" font-weight="bold" class="color10">Vlad</text>
                 <text x="128" textLength="8" class="foreground">:</text>
                 <text x="136" textLength="8" font-weight="bold" class="color12">~</text>
                 <text x="144" textLength="40" class="foreground">$ git</text>
                 <text x="184" textLength="8" class="background"></text>
             </g>
-            <g id="g14">
+            <g id="g11">
                 <text x="0" textLength="128" font-weight="bold" class="color10">Vlad</text>
                 <text x="128" textLength="8" class="foreground">:</text>
                 <text x="136" textLength="8" font-weight="bold" class="color12">~</text>
                 <text x="144" textLength="48" class="foreground">$ git </text>
                 <text x="192" textLength="8" class="background"></text>
             </g>
-            <g id="g15">
+            <g id="g12">
                 <text x="0" textLength="128" font-weight="bold" class="color10">Vlad</text>
                 <text x="128" textLength="8" class="foreground">:</text>
                 <text x="136" textLength="8" font-weight="bold" class="color12">~</text>
                 <text x="144" textLength="56" class="foreground">$ git s</text>
                 <text x="200" textLength="8" class="background"></text>
             </g>
-            <g id="g16">
+            <g id="g13">
                 <text x="0" textLength="128" font-weight="bold" class="color10">Vlad</text>
                 <text x="128" textLength="8" class="foreground">:</text>
                 <text x="136" textLength="8" font-weight="bold" class="color12">~</text>
                 <text x="144" textLength="64" class="foreground">$ git st</text>
                 <text x="208" textLength="8" class="background"></text>
             </g>
-            <g id="g17">
+            <g id="g14">
                 <text x="0" textLength="128" font-weight="bold" class="color10">Vlad</text>
                 <text x="128" textLength="8" class="foreground">:</text>
                 <text x="136" textLength="8" font-weight="bold" class="color12">~</text>
                 <text x="144" textLength="72" class="foreground">$ git sta</text>
                 <text x="216" textLength="8" class="background"></text>
             </g>
-            <g id="g18">
+            <g id="g15">
                 <text x="0" textLength="128" font-weight="bold" class="color10">Vlad</text>
                 <text x="128" textLength="8" class="foreground">:</text>
                 <text x="136" textLength="8" font-weight="bold" class="color12">~</text>
                 <text x="144" textLength="80" class="foreground">$ git stat</text>
                 <text x="224" textLength="8" class="background"></text>
             </g>
-            <g id="g19">
+            <g id="g16">
                 <text x="0" textLength="128" font-weight="bold" class="color10">Vlad</text>
                 <text x="128" textLength="8" class="foreground">:</text>
                 <text x="136" textLength="8" font-weight="bold" class="color12">~</text>
                 <text x="144" textLength="88" class="foreground">$ git statu</text>
                 <text x="232" textLength="8" class="background"></text>
             </g>
-            <g id="g20">
+            <g id="g17">
                 <text x="0" textLength="128" font-weight="bold" class="color10">Vlad</text>
                 <text x="128" textLength="8" class="foreground">:</text>
                 <text x="136" textLength="8" font-weight="bold" class="color12">~</text>
                 <text x="144" textLength="96" class="foreground">$ git status</text>
                 <text x="240" textLength="8" class="background"></text>
             </g>
-            <g id="g21">
+            <g id="g18">
                 <text x="0" textLength="128" font-weight="bold" class="color10">Vlad</text>
                 <text x="128" textLength="8" class="foreground">:</text>
                 <text x="136" textLength="8" font-weight="bold" class="color12">~</text>
                 <text x="144" textLength="96" class="foreground">$ git status</text>
             </g>
-            <g id="g22">
+            <g id="g19">
                 <text x="0" textLength="240" font-style="italic" class="foreground">        GitHub Status         </text>
             </g>
-            <g id="g23">
+            <g id="g20">
                 <text x="0" textLength="240" class="foreground">&#9556;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9572;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9559;</text>
             </g>
-            <g id="g24">
+            <g id="g21">
                 <text x="0" textLength="8" class="foreground">&#9553;</text>
                 <text x="8" textLength="120" font-weight="bold" class="orange"> Title         </text>
                 <text x="128" textLength="8" class="foreground">&#9474;</text>
                 <text x="136" textLength="96" font-weight="bold" class="orange"> Count      </text>
                 <text x="232" textLength="8" class="foreground">&#9553;</text>
             </g>
-            <g id="g25">
+            <g id="g22">
                 <text x="0" textLength="240" class="foreground">&#9567;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9532;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9570;</text>
             </g>
-            <g id="g26">
+            <g id="g23">
                 <text x="0" textLength="8" class="foreground">&#9553;</text>
                 <text x="8" textLength="120" class="purple"> Stars         </text>
                 <text x="128" textLength="8" class="foreground">&#9474;</text>
                 <text x="136" textLength="96" class="green"> 448        </text>
                 <text x="232" textLength="8" class="foreground">&#9553;</text>
             </g>
-            <g id="g27">
+            <g id="g24">
                 <text x="0" textLength="8" class="foreground">&#9553;</text>
                 <text x="8" textLength="120" class="purple"> Forks         </text>
                 <text x="128" textLength="8" class="foreground">&#9474;</text>
                 <text x="136" textLength="96" class="green"> 100        </text>
                 <text x="232" textLength="8" class="foreground">&#9553;</text>
             </g>
-            <g id="g28">
+            <g id="g25">
                 <text x="0" textLength="8" class="foreground">&#9553;</text>
                 <text x="8" textLength="120" class="purple"> Commits       </text>
                 <text x="128" textLength="8" class="foreground">&#9474;</text>
                 <text x="136" textLength="96" class="green"> 1246       </text>
                 <text x="232" textLength="8" class="foreground">&#9553;</text>
             </g>
-            <g id="g29">
+            <g id="g26">
                 <text x="0" textLength="8" class="foreground">&#9553;</text>
                 <text x="8" textLength="120" class="purple"> Followers     </text>
                 <text x="128" textLength="8" class="foreground">&#9474;</text>
                 <text x="136" textLength="96" class="green"> 47         </text>
                 <text x="232" textLength="8" class="foreground">&#9553;</text>
             </g>
-            <g id="g30">
+            <g id="g27">
                 <text x="0" textLength="8" class="foreground">&#9553;</text>
                 <text x="8" textLength="120" class="purple"> Pull Requests </text>
                 <text x="128" textLength="8" class="foreground">&#9474;</text>
                 <text x="136" textLength="96" class="green"> 66         </text>
                 <text x="232" textLength="8" class="foreground">&#9553;</text>
             </g>
-            <g id="g31">
+            <g id="g28">
                 <text x="0" textLength="8" class="foreground">&#9553;</text>
                 <text x="8" textLength="120" class="purple"> Issues        </text>
                 <text x="128" textLength="8" class="foreground">&#9474;</text>
                 <text x="136" textLength="96" class="green"> 1          </text>
                 <text x="232" textLength="8" class="foreground">&#9553;</text>
             </g>
-            <g id="g32">
+            <g id="g29">
                 <text x="0" textLength="8" class="foreground">&#9553;</text>
                 <text x="8" textLength="120" class="purple"> Repository    </text>
                 <text x="128" textLength="8" class="foreground">&#9474;</text>
                 <text x="136" textLength="96" class="green"> 39         </text>
                 <text x="232" textLength="8" class="foreground">&#9553;</text>
             </g>
-            <g id="g33">
+            <g id="g30">
                 <text x="0" textLength="8" class="foreground">&#9553;</text>
                 <text x="8" textLength="120" class="purple"> Gists         </text>
                 <text x="128" textLength="8" class="foreground">&#9474;</text>
                 <text x="136" textLength="96" class="green"> 8          </text>
                 <text x="232" textLength="8" class="foreground">&#9553;</text>
             </g>
-            <g id="g34">
+            <g id="g31">
                 <text x="0" textLength="240" class="foreground">&#9562;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9575;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9552;&#9565;</text>
             </g>
-            <g id="g35">
+            <g id="g32">
                 <text x="0" textLength="128" font-weight="bold" class="color10">Vlad</text>
                 <text x="128" textLength="8" class="foreground">:</text>
                 <text x="136" textLength="8" font-weight="bold" class="color12">~</text>
                 <text x="144" textLength="24" class="foreground">$ u</text>
                 <text x="168" textLength="8" class="background"></text>
             </g>
-            <g id="g36">
+            <g id="g33">
                 <text x="0" textLength="128" font-weight="bold" class="color10">Vlad</text>
                 <text x="128" textLength="8" class="foreground">:</text>
                 <text x="136" textLength="8" font-weight="bold" class="color12">~</text>
                 <text x="144" textLength="32" class="foreground">$ up</text>
                 <text x="176" textLength="8" class="background"></text>
             </g>
-            <g id="g37">
+            <g id="g34">
                 <text x="0" textLength="128" font-weight="bold" class="color10">Vlad</text>
                 <text x="128" textLength="8" class="foreground">:</text>
                 <text x="136" textLength="8" font-weight="bold" class="color12">~</text>
                 <text x="144" textLength="40" class="foreground">$ upt</text>
                 <text x="184" textLength="8" class="background"></text>
             </g>
-            <g id="g38">
+            <g id="g35">
                 <text x="0" textLength="128" font-weight="bold" class="color10">Vlad</text>
                 <text x="128" textLength="8" class="foreground">:</text>
                 <text x="136" textLength="8" font-weight="bold" class="color12">~</text>
                 <text x="144" textLength="48" class="foreground">$ upti</text>
                 <text x="192" textLength="8" class="background"></text>
             </g>
-            <g id="g39">
+            <g id="g36">
                 <text x="0" textLength="128" font-weight="bold" class="color10">Vlad</text>
                 <text x="128" textLength="8" class="foreground">:</text>
                 <text x="136" textLength="8" font-weight="bold" class="color12">~</text>
                 <text x="144" textLength="56" class="foreground">$ uptim</text>
                 <text x="200" textLength="8" class="background"></text>
             </g>
-            <g id="g40">
+            <g id="g37">
                 <text x="0" textLength="128" font-weight="bold" class="color10">Vlad</text>
                 <text x="128" textLength="8" class="foreground">:</text>
                 <text x="136" textLength="8" font-weight="bold" class="color12">~</text>
                 <text x="144" textLength="64" class="foreground">$ uptime</text>
                 <text x="208" textLength="8" class="background"></text>
             </g>
-            <g id="g41">
+            <g id="g38">
                 <text x="0" textLength="128" font-weight="bold" class="color10">Vlad</text>
                 <text x="128" textLength="8" class="foreground">:</text>
                 <text x="136" textLength="8" font-weight="bold" class="color12">~</text>
                 <text x="144" textLength="64" class="foreground">$ uptime</text>
             </g>
-            <g id="g42">
+            <g id="g39">
                 <text x="0" textLength="32" font-weight="bold" class="orange">1195</text>
             </g>
-            <g id="g43">
+            <g id="g40">
                 <text x="0" textLength="128" font-weight="bold" class="color10">Vlad</text>
                 <text x="128" textLength="8" class="foreground">:</text>
                 <text x="136" textLength="8" font-weight="bold" class="color12">~</text>
                 <text x="144" textLength="24" class="foreground">$ e</text>
                 <text x="168" textLength="8" class="background"></text>
             </g>
-            <g id="g44">
+            <g id="g41">
                 <text x="0" textLength="128" font-weight="bold" class="color10">Vlad</text>
                 <text x="128" textLength="8" class="foreground">:</text>
                 <text x="136" textLength="8" font-weight="bold" class="color12">~</text>
                 <text x="144" textLength="32" class="foreground">$ ex</text>
                 <text x="176" textLength="8" class="background"></text>
             </g>
-            <g id="g45">
+            <g id="g42">
                 <text x="0" textLength="128" font-weight="bold" class="color10">Vlad</text>
                 <text x="128" textLength="8" class="foreground">:</text>
                 <text x="136" textLength="8" font-weight="bold" class="color12">~</text>
                 <text x="144" textLength="40" class="foreground">$ exi</text>
                 <text x="184" textLength="8" class="background"></text>
             </g>
-            <g id="g46">
+            <g id="g43">
                 <text x="0" textLength="128" font-weight="bold" class="color10">Vlad</text>
                 <text x="128" textLength="8" class="foreground">:</text>
                 <text x="136" textLength="8" font-weight="bold" class="color12">~</text>
                 <text x="144" textLength="48" class="foreground">$ exit</text>
                 <text x="192" textLength="8" class="background"></text>
             </g>
-            <g id="g47">
+            <g id="g44">
                 <text x="0" textLength="128" font-weight="bold" class="color10">Vlad</text>
                 <text x="128" textLength="8" class="foreground">:</text>
                 <text x="136" textLength="8" font-weight="bold" class="color12">~</text>
                 <text x="144" textLength="48" class="foreground">$ exit</text>
             </g>
-            <g id="g48">
+            <g id="g45">
                 <text x="0" textLength="32" class="foreground">exit</text>
             </g>
         </defs>
