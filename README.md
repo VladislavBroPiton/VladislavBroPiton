@@ -9,6 +9,7 @@
  [![GitHub Streak](https://streak-stats.demolab.com?user=VladislavBroPiton&theme=dark&hide_border=true&border_radius=4&locale=ru&date_format=M%20j%5B%2C%20Y%5D&card_width=400)](https://git.io/streak-stats)  
 
 
+
  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="320" />    
 
 
