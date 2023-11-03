@@ -15,7 +15,7 @@
             dominant-baseline: text-before-edge;
             white-space: pre;
         }
-    
+        
             :root {
                 --animation-duration: 14558ms;
             }
