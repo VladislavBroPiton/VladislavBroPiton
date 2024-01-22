@@ -743,7 +743,7 @@
                 <rect x="168" y="12274" width="8" height="17" class="foreground" />
                 <use xlink:href="#g40" y="12274" />
             </g>
-            <g>
+            <g> 
                 <use xlink:href="#g8" y="12342" />
                 <use xlink:href="#g10" y="12359" />
                 <use xlink:href="#g18" y="12376" />
