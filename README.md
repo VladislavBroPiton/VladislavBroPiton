@@ -4,7 +4,7 @@
 #### Я тестировщик
 
 Проживаю в России. Прохожу курс у Вадим Ксендзов
-
+ 
 
  [![GitHub Streak](https://streak-stats.demolab.com?user=VladislavBroPiton&theme=dark&hide_border=true&border_radius=4&locale=ru&date_format=M%20j%5B%2C%20Y%5D&card_width=400)](https://github.com/VladislavBroPiton/VladislavBroPiton)  
 
