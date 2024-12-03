@@ -3,7 +3,7 @@
 #### Всем привет! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)  Меня зовут Владислав
 #### Я тестировщик
 
-Проживаю в России. 
+Проживаю в России 
  
 
  [![GitHub Streak](https://streak-stats.demolab.com?user=VladislavBroPiton&theme=dark&hide_border=true&border_radius=4&locale=ru&date_format=M%20j%5B%2C%20Y%5D&card_width=400)](https://github.com/VladislavBroPiton/VladislavBroPiton)  
