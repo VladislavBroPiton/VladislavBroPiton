@@ -168,11 +168,4 @@
 
 
 
-$ whoami
-Владислав — Telegram Bot Developer
-
-$ projects --count
-5 коммерческих проектов
-
-$ contact --telegram
-@Bro_piton
+![Stars](https://img.shields.io/github/stars/VladislavBroPiton/DocuHelperMiniApp?style=social)
