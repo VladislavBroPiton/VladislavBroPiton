@@ -134,18 +134,8 @@
 
 <!-- NEW: 11. GitHub Metrics (подробный инфографический дашборд) -->
 #### 📊 GitHub Metrics – полная аналитика активности
-<p align="center">
-  <img src="https://github.com/VladislavBroPiton/VladislavBroPiton/blob/main/github-metrics.svg" alt="Metrics" width="100%">
-</p>
 
-<details>
-  <summary>⚙️ Как настроить Metrics (если не отображается)</summary>
-
-  1. Скопируйте файл `.github/workflows/metrics.yml` из [lowlighter/metrics](https://github.com/lowlighter/metrics).
-  2. Замените `username: YOUR_USERNAME` на `VladislavBroPiton`.
-  3. Запустите workflow вручную или дождитесь автоматического обновления.
-  4. SVG появится в корне репозитория и будет показываться здесь.
-</details>
+[![Retro Stats](https://retro-stats-api.vercel.app/api?username=VladislavBroPiton)](https://github.com/VladislavBroPiton)
 
 ![Временная шкала](https://github-readme-stats.vercel.app/api?username=VladislavBroPiton&show_icons=true&theme=radical&hide=contribs,prs)
 
