@@ -24,7 +24,12 @@
 
 ---
 
-### 🚀 Мои проекты
+## 🚀 Мои проекты
+<!-- потом -->
+<br>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+</p>
 
 | Проект | Стек | Что делает |
 |:-------|:-----|:------------|
