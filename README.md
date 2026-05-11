@@ -166,8 +166,9 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=VladislavBroPiton&theme=dark&hide_border=true&border_radius=4&locale=ru&date_format=M%20j%5B%2C%20Y%5D&card_width=400)](https://github.com/VladislavBroPiton/VladislavBroPiton)
 
-[![常用语言](https://github-readme-stats.vercel.app/api/top-langs/?username=VladislavBroPiton&layout=donut&theme=radical)]
-
+<a href="https://t.me/Bro_piton">
+  <img src="https://img.shields.io/badge/НАПИСАТЬ_В_ТЕЛЕГРАМ-00acee?style=for-the-badge&logo=telegram&logoColor=white">
+</a>
 
 
 
