@@ -168,7 +168,6 @@
 
 
 
-Текущий фокус: <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"> <img src="https://progress-bar.dev/70/" width="80">
-
+🕒 Текущее время (MSK): <img src="https://img.shields.io/badge/time-MSK_+3-blue?style=flat-square">
 
 
