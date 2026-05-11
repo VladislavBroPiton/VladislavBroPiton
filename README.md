@@ -73,4 +73,5 @@
 ⭐ **Если вам понравились мои проекты – поставьте звёздочку на GitHub. Это лучшая благодарность для разработчика!**
 
 <img align="right" alt="GIF" src="https://github.com/VladislavBroPiton/VladislavBroPiton/assets/132227845/dfdb16f6-49e2-41e5-b0b0-2a58e71e471f?raw=true" width="400" height="320" />  
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=VladislavBroPiton&theme=dark&hide_border=true&border_radius=4&locale=ru&date_format=M%20j%5B%2C%20Y%5D&card_width=400)](https://github.com/VladislavBroPiton/VladislavBroPiton)  
