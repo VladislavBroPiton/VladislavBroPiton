@@ -23,13 +23,10 @@
 | **Фронтенд Mini App** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![Telegram Web App](https://img.shields.io/badge/Telegram_WebApp-26A5E4?style=flat-square&logo=telegram&logoColor=white) |
 
 
+---
 
-## 🚀 Мои проекты
-<!-- потом -->
-<br>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-</p>
+### 🚀 Мои проекты
+
 | Проект | Стек | Что делает |
 |:-------|:-----|:------------|
 | **DocuHelper Mini App** | `aiogram 3` `aiohttp` `pgvector` `Cohere` `tsvector` | AI‑консультант по трейдингу. Чат в Telegram Mini App. Гибридный поиск (векторный + текстовый). Кэширование эмбеддингов и ответов, rate limiting, статистика. → [GitHub](https://github.com/VladislavBroPiton/DocuHelperMiniApp) |
