@@ -168,8 +168,7 @@
 
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=VladislavBroPiton&fontSize=60&animation=fadeIn&fontAlignY=40" width="100%">
-
+Текущий фокус: <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"> <img src="https://progress-bar.dev/70/" width="80">
 
 
 
