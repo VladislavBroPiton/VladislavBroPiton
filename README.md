@@ -135,8 +135,6 @@
 <!-- NEW: 11. GitHub Metrics (подробный инфографический дашборд) -->
 #### 📊 GitHub Metrics – полная аналитика активности
 
-[![Retro Stats](https://retro-stats-api.vercel.app/api?username=VladislavBroPiton)](https://github.com/VladislavBroPiton)
-
 ![Временная шкала](https://github-readme-stats.vercel.app/api?username=VladislavBroPiton&show_icons=true&theme=radical&hide=contribs,prs)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VladislavBroPiton&layout=compact&theme=radical&langs_count=6)
