@@ -3,9 +3,8 @@
 > **Разрабатываю Telegram-ботов и Mini Apps «под ключ»**  
 > Строю системы от идеи до продакшена — AI-консультанты, запись в салоны, интерактивные квизы, 3D-игры.
 
-[![Telegram](https://img.shields.io/badge/Telegram-@VladislavBroPiton-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/VladislavBroPiton)
+[![Telegram](https://img.shields.io/badge/Telegram-@VladislavBroPiton-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Bro_piton)
 [![GitHub](https://img.shields.io/badge/GitHub-VladislavBroPiton-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VladislavBroPiton)
-[![Gmail](https://img.shields.io/badge/Gmail-v.bropiton@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:v.bropiton@gmail.com)
 
 ---
 
