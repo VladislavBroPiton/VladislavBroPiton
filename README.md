@@ -9,7 +9,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-VladislavBroPiton-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VladislavBroPiton)
 <img src="https://img.shields.io/badge/Открыт_для_заказов-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
 ![](https://komarev.com/ghpvc/?username=VladislavBroPiton&style=for-the-badge&color=2CA5E0)
-![Last Commit](https://img.shields.io/github/last-commit/VladislavBroPiton/VladislavBroPiton?style=flat-square)
 
 ---
 
@@ -162,7 +161,7 @@
 ---
 
 ⭐ **Если вам понравились мои проекты – поставьте звёздочку на GitHub. Это лучшая благодарность для разработчика!**
-
+![Last Commit](https://img.shields.io/github/last-commit/VladislavBroPiton/VladislavBroPiton?style=flat-square)
 <img align="right" alt="GIF" src="https://github.com/VladislavBroPiton/VladislavBroPiton/assets/132227845/dfdb16f6-49e2-41e5-b0b0-2a58e71e471f?raw=true" width="400" height="320" />  
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=VladislavBroPiton&theme=dark&hide_border=true&border_radius=4&locale=ru&date_format=M%20j%5B%2C%20Y%5D&card_width=400)](https://github.com/VladislavBroPiton/VladislavBroPiton)
