@@ -22,6 +22,15 @@
 | **Деплой & CI/CD** | ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
 | **Фронтенд Mini App** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![Telegram Web App](https://img.shields.io/badge/Telegram_WebApp-26A5E4?style=flat-square&logo=telegram&logoColor=white) |
 
+<!-- NEW: 13. Анимированные логотипы технологий (GIF) -->
+#### 🎥 Живые логотипы технологий
+<p align="center">
+  <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="60" alt="Python animated">
+  <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="60" alt="JS animated">
+  <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="60" alt="PostgreSQL animated">
+  <img src="https://media.giphy.com/media/Sr8xDpMwVKOHUWDmeD/giphy.gif" width="60" alt="Docker animated">
+  <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="60" alt="GitHub Actions animated">
+</p>
 
 ---
 
@@ -36,6 +45,69 @@
 | **Telegram Clicker Bot** | `aiogram 3` `Three.js` `PostgreSQL` `Mini App` | 3D‑кликер с 13 боссами, системой крафта и прокачки. Игровая экономика, таблицы лидеров, Mini App с трёхмерной графикой. → [GitHub](https://github.com/VladislavBroPiton/telegram-clicker-bot) |
 
 > Другие проекты (Shop Bot, Lead Converter, Booking Bot) — в плане. Могу реализовать под ваш запрос.
+
+<!-- NEW: 9. Кастомные SVG-баннеры для проектов -->
+#### 🎨 Проекты в графике (SVG-карточки)
+<table>
+  <tr>
+    <td align="center" width="200">
+      <a href="https://github.com/VladislavBroPiton/DocuHelperMiniApp">
+        <img src="https://img.shields.io/badge/DocuHelper_Mini_App-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" width="180">
+      </a>
+      <br />
+      <strong>🤖 AI-консультант</strong>
+      <br />
+      Гибридный поиск, кэш, Mini App
+    </td>
+    <td align="center" width="200">
+      <a href="https://github.com/VladislavBroPiton/BeautyBook">
+        <img src="https://img.shields.io/badge/BeautyBook-FF69B4?style=for-the-badge&logo=googlecalendar&logoColor=white" width="180">
+      </a>
+      <br />
+      <strong>💇‍♀️ Запись в салон</strong>
+      <br />
+      Google Calendar, антиовербукинг
+    </td>
+    <td align="center" width="200">
+      <a href="https://github.com/VladislavBroPiton/Quiz-Funnel">
+        <img src="https://img.shields.io/badge/Quiz_Funnel-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" width="180">
+      </a>
+      <br />
+      <strong>📊 Лид-квиз</strong>
+      <br />
+      Google Sheets, тёмная тема
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="200">
+      <a href="https://github.com/VladislavBroPiton/DocuHelperForex">
+        <img src="https://img.shields.io/badge/DocuHelper_Forex-181717?style=for-the-badge&logo=openai&logoColor=white" width="180">
+      </a>
+      <br />
+      <strong>📈 RAG-помощник</strong>
+      <br />
+      Эмбеддинги, pgvector
+    </td>
+    <td align="center" width="200">
+      <a href="https://github.com/VladislavBroPiton/telegram-clicker-bot">
+        <img src="https://img.shields.io/badge/3D_Clicker-FF4500?style=for-the-badge&logo=three.js&logoColor=white" width="180">
+      </a>
+      <br />
+      <strong>🎮 Игра-кликер</strong>
+      <br />
+      Three.js, 13 боссов
+    </td>
+    <td align="center" width="200">
+      <a href="#">
+        <img src="https://img.shields.io/badge/Больше_проектов-gray?style=for-the-badge&logo=github&logoColor=white" width="180">
+      </a>
+      <br />
+      <strong>🚀 В планах</strong>
+      <br />
+      Shop Bot, Booking Bot, Lead Converter
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -60,9 +132,35 @@
 - **Технологии, с которыми работаю**: 15+  
 - **Постоянно учусь**: сейчас Docker, FastAPI, WebSockets, Redis.
 
+<!-- NEW: 11. GitHub Metrics (подробный инфографический дашборд) -->
+#### 📊 GitHub Metrics – полная аналитика активности
+<p align="center">
+  <img src="https://github.com/VladislavBroPiton/VladislavBroPiton/blob/main/github-metrics.svg" alt="Metrics" width="100%">
+</p>
+
+<details>
+  <summary>⚙️ Как настроить Metrics (если не отображается)</summary>
+
+  1. Скопируйте файл `.github/workflows/metrics.yml` из [lowlighter/metrics](https://github.com/lowlighter/metrics).
+  2. Замените `username: YOUR_USERNAME` на `VladislavBroPiton`.
+  3. Запустите workflow вручную или дождитесь автоматического обновления.
+  4. SVG появится в корне репозитория и будет показываться здесь.
+</details>
+
 ![Временная шкала](https://github-readme-stats.vercel.app/api?username=VladislavBroPiton&show_icons=true&theme=radical&hide=contribs,prs)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VladislavBroPiton&layout=compact&theme=radical&langs_count=6)
+
+<!-- NEW: 10. Индикатор «Сейчас работаю над...» -->
+#### 🔨 Сейчас в разработке
+<p align="center">
+  <img src="https://img.shields.io/badge/🚀_Lead_Converter-бот_для_сбора_лидов-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
+  <img src="https://img.shields.io/badge/📦_Docker-контейнеризация_всех_проектов-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/🔄_WebSockets-реалтайм_чат_в_Mini_App-FF6B6B?style=for-the-badge&logo=websocket&logoColor=white">
+</p>
+<p align="center">
+  <i>Следующие релизы: Shop Bot (оплата ЮKassa), Booking Bot (отели), универсальный шаблон AI-консультанта.</i>
+</p>
 
 ---
 
@@ -70,11 +168,10 @@
 
 - **Telegram**: [@Bro_piton](https://t.me/Bro_piton) – быстрее всего  
 
-
 ---
 
 ⭐ **Если вам понравились мои проекты – поставьте звёздочку на GitHub. Это лучшая благодарность для разработчика!**
 
 <img align="right" alt="GIF" src="https://github.com/VladislavBroPiton/VladislavBroPiton/assets/132227845/dfdb16f6-49e2-41e5-b0b0-2a58e71e471f?raw=true" width="400" height="320" />  
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=VladislavBroPiton&theme=dark&hide_border=true&border_radius=4&locale=ru&date_format=M%20j%5B%2C%20Y%5D&card_width=400)](https://github.com/VladislavBroPiton/VladislavBroPiton)  
+[![GitHub Streak](https://streak-stats.demolab.com?user=VladislavBroPiton&theme=dark&hide_border=true&border_radius=4&locale=ru&date_format=M%20j%5B%2C%20Y%5D&card_width=400)](https://github.com/VladislavBroPiton/VladislavBroPiton)
