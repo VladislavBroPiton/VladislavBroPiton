@@ -159,6 +159,7 @@
 ---
 
 ⭐ **Если вам понравились мои проекты – поставьте звёздочку на GitHub. Это лучшая благодарность для разработчика!**
+![](https://komarev.com/ghpvc/?username=VladislavBroPiton&style=for-the-badge&color=2CA5E0)
 
 <img align="right" alt="GIF" src="https://github.com/VladislavBroPiton/VladislavBroPiton/assets/132227845/dfdb16f6-49e2-41e5-b0b0-2a58e71e471f?raw=true" width="400" height="320" />  
 
