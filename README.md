@@ -168,4 +168,4 @@
 
 
 
-![Stars](https://img.shields.io/github/stars/VladislavBroPiton/DocuHelperMiniApp?style=social)
+<img src="https://img.shields.io/badge/Открыт_для_заказов-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
