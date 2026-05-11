@@ -1,4 +1,4 @@
-# 👋 Привет, я Владислав
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2CA5E0&center=true&vCenter=true&width=600&lines=Разрабатываю+Telegram+ботов;Строю+Mini+Apps+для+бизнеса;Автоматизирую+продажи+и+запись)](https://git.io/typing-svg)
 
 > **Разрабатываю Telegram-ботов и Mini Apps «под ключ»**  
 > Строю системы от идеи до продакшена — AI-консультанты, запись в салоны, интерактивные квизы, 3D-игры.
