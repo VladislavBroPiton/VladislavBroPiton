@@ -7,6 +7,7 @@
 
 [![Telegram](https://img.shields.io/badge/Telegram-@Bro_piton-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Bro_piton)
 [![GitHub](https://img.shields.io/badge/GitHub-VladislavBroPiton-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VladislavBroPiton)
+<img src="https://img.shields.io/badge/Открыт_для_заказов-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
 ![](https://komarev.com/ghpvc/?username=VladislavBroPiton&style=for-the-badge&color=2CA5E0)
 
 ---
@@ -168,4 +169,4 @@
 
 
 
-<img src="https://img.shields.io/badge/Открыт_для_заказов-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
+
